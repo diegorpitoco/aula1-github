@@ -11,7 +11,7 @@ public class Array {
 		Scanner scan = new Scanner(System.in);
 		
 		
-		System.out.println("Digite a quantidade de valores");
+		System.out.println("Digite a quantidade de valores teste");
 		int n = scan.nextInt();
 		double[]vet = new double[n];
 		
